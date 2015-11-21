@@ -1,1 +1,1 @@
-#bcbk6 git 101
+#Barcamp Bangkhen 6 - Git 101
